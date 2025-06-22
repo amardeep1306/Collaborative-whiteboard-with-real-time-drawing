@@ -20,7 +20,7 @@ This is a real-time collaborative whiteboard app that works in your web browser.
 - **Frontend**: React, Vite, TailwindCSS
 - **Backend**: Node.js, Express
 - **WebSocket**: Socket.IO
-  
+- **Deployment**: Vercel (Frontend)
 ---
 
 ### Prerequisites
@@ -50,9 +50,9 @@ npm run dev
 
 ## Deployed demo link 
 
-<h1 align="center">
+<h1 >
 	<a href="https://collaborative-whiteboard-with-real-phi.vercel.app/">
-		SketchFlow
+		Demo Link
 	</a>
 </h1>
 
