@@ -35,26 +35,37 @@ This is a real-time collaborative whiteboard app that works in your web browser.
 ## Setup instructions to run the project locally 
 
 ### Frontend Setup
-
+```bash
 cd client
+```
+```bash
 npm install
+```
+``` bash
 npm run dev
+```
 
 ### Backend Setup
 
+```bash
 cd server
+```
+```bash
 npm install
+```
+```bash
 npm run dev
+```
 
 ---
 
 ## Deployed demo link 
 
-<h1 >
+<h2 >
 	<a href="https://collaborative-whiteboard-with-real-phi.vercel.app/">
-		Demo Link
+		Demo Link of collaborative-whiteboard
 	</a>
-</h1>
+</h2>
 
 ## screenshot
 
