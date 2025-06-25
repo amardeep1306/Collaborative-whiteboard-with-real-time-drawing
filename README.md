@@ -70,3 +70,7 @@ npm run dev
 ## screenshot
 
 ![Image](https://github.com/user-attachments/assets/077b2a67-23e7-41a6-ae7e-501d922a8f67)
+
+
+### take some reference from online whiteboard
+
